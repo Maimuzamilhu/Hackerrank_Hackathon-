@@ -1,0 +1,46 @@
+# Transcription of evidence/images/object_storage_browser_20260213.png
+# Transcribed once by Claude (claude-opus-5-5) in the Claude Code dev session; verbatim text, no interpretation.
+# Source-SHA256: 96e9a191380c29b9e0ab997007268c4cd6353cb6721ebd1ed4a32599d8d37e04
+
+## Screen
+App: Northstar Shop - Nimbus Object Storage
+Environment: Production
+Breadcrumb: Northstar Shop / Nimbus Object Storage / northstar-customer-data
+Title: northstar-customer-data
+Badge: 8 objects
+Subtitle: eu-west-1 / support-attachments / 2026 / 02
+Tabs: Objects (selected), Versions, Access
+
+## Summary cards
+Account: Northstar Production
+Region: eu-west-1
+Captured: 13 Feb 2026 08:00 UTC
+Storage class: All
+
+## Table: Objects (Updated moments ago · 8 records)
+| # | Name | Size | Modified (UTC) | Storage class | Version |
+| 1 | delivery_confirmation_19.pdf | 684 KB | 12 Feb 18:42 | Standard | v3 |
+| 2 | delivery_confirmation_20.pdf | 712 KB | 11 Feb 14:17 | Standard | v1 |
+| 3 | return_label_4821.pdf | 203 KB | 10 Feb 09:33 | Standard | v1 |
+| 4 | return_label_4876.pdf | 198 KB | 11 Feb 16:05 | Standard | v2 |
+| 5 | invoice_NS-10493.pdf | 318 KB | 10 Feb 11:21 | Standard | v1 |
+| 6 | parcel_damage_7713.jpg | 2.4 MB | 12 Feb 10:08 | Standard | v1 |
+| 7 | customer_export_2026-02-10.zip | 128 MB | 10 Feb 23:14 | Standard | v1 |
+| 8 | customer_export_2026-02-12.zip | 131 MB | 12 Feb 21:56 | Standard | v1 |
+
+## Panel: delivery_confirmation_19.pdf
+Size: 684 KB
+Version: v3
+Content type: application/pdf
+Encryption: AES-256
+Checksum: e71b6d...
+Uploader: support-service
+Modified: 12 Feb 2026 18:42 UTC
+
+## Activity
+v3: 12 Feb 18:42 · metadata update
+v2: 12 Feb 18:39 · upload complete
+v1: 12 Feb 18:38 · object created
+
+## Footer
+Nimbus Object Storage · Production workspace · build 2026.10.4

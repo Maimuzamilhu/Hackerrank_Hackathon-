@@ -1,0 +1,41 @@
+# Transcription of evidence/images/account_admin_console_20260926.png
+# Transcribed once by Claude (claude-opus-5-5) in the Claude Code dev session; verbatim text, no interpretation.
+# Source-SHA256: d5c32ca5b6e1a2b4bbe9f5d41835ef1fd5d4f7061dab9067a4f9f88cea3c1861
+
+## Screen
+App: Northstar Shop - Customer Operations
+Environment: Production
+Breadcrumb: Northstar Shop / Customer Operations / Customers
+Title: Haruka Sato
+Badge: Silver
+Subtitle: user_11 · account_5762
+Tabs: Overview (selected), Orders, Addresses, Support history
+
+## Summary cards
+Email: haruka.s1838@zoho.com
+Phone: +81 90 7610 2507
+Signup channel: mobile_app
+Market: JP
+Preferred language: Japanese
+Last contact: 24 Sep 2026 09:14 JST
+
+## Table: Overview (Updated moments ago · 2 records)
+| # | Order ID | Date | Item | Qty | Total | Status |
+| 1 | ORD-20265762 | 12 Sep 2026 | Ceramic coffee set | 1 | JPY 8,900 | Delivered · 18 Sep |
+| 2 | ORD-20265518 | 28 Aug 2026 | Travel backpack | 1 | JPY 12,400 | Returned · 03 Sep |
+
+## Panel: Customer details
+Default address: 2-18-4 Kichijoji, Musashino, Tokyo 180-0004
+Loyalty tier: Silver
+Support: CS-8538 · support_9538
+Member since: 12 Jan 2024
+
+## Activity
+24 Sep: Customer replied to CS-8538
+22 Sep: Support agent responded
+18 Sep: Order ORD-20265762 delivered
+03 Sep: Order ORD-20265518 returned
+28 Aug: support_9538 created
+
+## Footer
+Customer Operations · Production workspace · build 2026.10.4

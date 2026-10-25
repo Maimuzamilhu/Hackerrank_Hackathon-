@@ -1,0 +1,44 @@
+# Transcription of evidence/images/analytics_profile_view_20260713.png
+# Transcribed once by Claude (claude-opus-5-5) in the Claude Code dev session; verbatim text, no interpretation.
+# Source-SHA256: 4e4cb259bc2010b622b0c53fe5872258f994fefc23452a83bb27473758693484
+
+## Screen
+App: Northstar Shop - Pulse Analytics
+Environment: Production
+Breadcrumb: Northstar Shop / Pulse Analytics / Users
+Title: Omar Darwish
+Badge: Last 90 days
+Subtitle: user_20 · analytics_7438 · darwish.omar@icloud.com
+Tabs: Event timeline (selected), Sessions (12), Orders (2), Products viewed (19)
+
+## Summary cards
+Sessions: 12
+Products viewed: 19
+Completed orders: 2
+Revenue: USD 167.42
+Mobile / Desktop: 67% / 33%
+Acquisition: Organic search
+
+## Table: Event timeline (Updated moments ago · 5 records)
+| # | Time | Event | Product / detail | Value | Device |
+| 1 | 14:22 | Order completed | Ceramic coffee set | USD 84.21 | Mobile |
+| 2 | 14:20 | Checkout started | 2 items | USD 84.21 | Mobile |
+| 3 | 14:17 | Product viewed | Ceramic coffee set | — | Mobile |
+| 4 | 14:16 | Added to cart | Ceramic coffee set | USD 42.00 | Mobile |
+| 5 | 14:12 | Product viewed | Stoneware mug | USD 18.00 | Desktop |
+
+## Panel: Profile attributes
+Market: AE
+Audience: Returning shopper
+Interest: Coffee & dining
+Last activity: 13 Jul 2026 14:22 UTC
+First seen: 21 Apr 2026 09:14 UTC
+
+## Activity
+13 Jul: 6 events in active session
+08 Jul: Order completed · USD 83.21
+30 Jun: Product search · coffee set
+22 Jun: Campaign opened
+
+## Footer
+Pulse Analytics · Production workspace · build 2026.10.4

@@ -1,0 +1,42 @@
+# Transcription of evidence/images/deleted_account_reference_20260310.png
+# Transcribed once by Claude (claude-opus-5-5) in the Claude Code dev session; verbatim text, no interpretation.
+# Source-SHA256: 68c28a72afd6ed184d5990d15c543f8a516face204f0360f732755a8a63c28be
+
+## Screen
+App: Northstar Shop - Customer Reference Registry
+Environment: Production
+Breadcrumb: Northstar Shop / Customer Reference Registry / Customer references
+Title: user_17
+Badge: Retained reference
+Subtitle: Customer key · Account Platform · eu-west
+Tabs: Overview (selected), Linked records, History
+
+## Summary cards
+Reference type: Customer key
+Created: 11 Jan 2024 08:42 UTC
+Most recent update: 10 Mar 2026 07:18 UTC
+Owner team: Account Platform
+
+## Table: Overview (Updated moments ago · 4 records)
+| # | System | Record reference | Relationship | Created (UTC) | Status |
+| 1 | Orders | ORD-20263245 | Linked to customer | 11 Jan 2024 08:45 | Active |
+| 2 | Support | CS-3245 | Linked to customer | 14 Feb 2024 12:16 | Active |
+| 3 | Support | CS-3378 | Linked to customer | 03 Jun 2024 09:27 | Active |
+| 4 | Finance | FIN-7742 | Linked to customer | 22 Aug 2024 15:03 | Active |
+
+## Panel: History
+10 Mar 2026: Metadata reviewed
+22 Aug 2024: Finance link added
+03 Jun 2024: Support link added
+14 Feb 2024: Support link added
+11 Jan 2024: Reference created
+
+## Activity
+Reference created: Recorded
+Order link added: ORD-20263245
+Support links added: CS-3245, CS-3378
+Finance link added: FIN-7742
+Metadata reviewed: Recorded
+
+## Footer
+Customer Reference Registry · Production workspace · build 2026.10.4

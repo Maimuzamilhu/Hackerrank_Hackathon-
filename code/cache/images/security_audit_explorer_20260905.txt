@@ -1,0 +1,45 @@
+# Transcription of evidence/images/security_audit_explorer_20260905.png
+# Transcribed once by Claude (claude-opus-5-5) in the Claude Code dev session; verbatim text, no interpretation.
+# Source-SHA256: ca59f693f4e7002466b3fdeaf1bb6763618770963dd811b60003772d07b4b03b
+
+## Screen
+App: Northstar Shop - Sentinel
+Environment: Production
+Breadcrumb: Northstar Shop / Sentinel / Account events
+Title: Account events
+Badge: 6 signed events
+Subtitle: Subject filter: user_03 · 18-26 Aug 2026 UTC
+Tabs: Events (6) (selected), Timeline, Integrity
+
+## Summary cards
+Events: 6
+Categories: 5
+Integrity failures: 0
+Partition: 2026-Q3
+
+## Table: Events (6) (Updated moments ago · 6 records)
+| # | Time (UTC) | Event | Category | Subject | Actor | Integrity | Reference |
+| 1 | 25 Aug 04:03 | Account closure recorded | Account lifecycle | user_03 | Automated workflow | Valid | audit_record_003 |
+| 2 | 25 Aug 03:21 | Session revoked | Session management | user_03 | Security system | Valid | audit_record_002 |
+| 3 | 24 Aug 16:14 | Recovery challenge completed | Authentication | user_03 | User (self) | Valid | audit_record_001 |
+| 4 | 22 Aug 11:27 | Email change confirmed | Profile update | user_03 | User (self) | Valid | audit_record_006 |
+| 5 | 20 Aug 09:42 | Login from new device | Authentication | user_03 | User (self) | Valid | audit_record_005 |
+| 6 | 18 Aug 14:05 | Password changed | Authentication | user_03 | User (self) | Valid | audit_record_004 |
+
+## Panel: audit_record_003 · Raw event
+event_type: account_closure_recorded
+subject: user_03
+actor: automated account workflow
+recorded_at: 2026-08-25T04:03:00Z
+fingerprint: 8f0c...31ad
+signature: Valid
+journal: 2026-Q3
+
+## Activity
+25 Aug: Account closure recorded
+25 Aug: Session revoked
+24 Aug: Recovery challenge completed
+22 Aug: Email change confirmed
+
+## Footer
+Sentinel · Production workspace · build 2026.10.4

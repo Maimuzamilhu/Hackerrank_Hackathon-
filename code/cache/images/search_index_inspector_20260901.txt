@@ -1,0 +1,41 @@
+# Transcription of evidence/images/search_index_inspector_20260901.png
+# Transcribed once by Claude (claude-opus-5-5) in the Claude Code dev session; verbatim text, no interpretation.
+# Source-SHA256: 75afdb0ae53a4510c83399a70d88073cb4fb2747454095756e4ddad1a8c70605
+
+## Screen
+App: Northstar Shop - Search Console
+Environment: Production
+Search box: email:g.silva76@gmail.com
+Breadcrumb: Northstar Shop / Search Console / Customer Search
+Title: Customer Search
+Badge: 2 hits
+Subtitle: customer_directory_v3 / prod-eu
+Tabs: Results (2) (selected), Query details, Shard timing
+
+## Summary cards
+Executed: 01 Sep 2026 06:00:14 UTC
+Latency: 184 ms
+Index: customer_directory_v3
+Environment: prod-eu
+Shard total: 184 ms
+
+## Table: Results (2) (Updated moments ago · 2 records)
+| # | _id | Display name | Email | Customer reference | Score | Last indexed |
+| 1 | search_428 | Gabriel Silva | g.silva76@gmail.com | user_13 | 9.84 | 05:58:21 UTC |
+| 2 | search_1874 | — | g.silva76.jr@gmail.com | — | 4.12 | 05:55:03 UTC |
+
+## Panel: Raw document · search_428
+_index: customer_directory_v3
+_id: search_428
+display_name: Gabriel Silva
+email: g.silva76@gmail.com
+customer_reference: user_13
+indexed_at: 2026-09-01T05:58:21Z
+
+## Activity
+06:00:14: email:g.silva76@gmail.com · 2 hits
+05:42:03: customer_reference:user_9842 · 1 hit
+05:31:18: display_name:"Aditi Jain" · 1 hit
+
+## Footer
+Search Console · Production workspace · build 2026.10.4

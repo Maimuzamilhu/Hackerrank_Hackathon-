@@ -1,0 +1,42 @@
+# Transcription of evidence/images/marketing_profile_console.png
+# Transcribed once by Claude (claude-opus-5-5) in the Claude Code dev session; verbatim text, no interpretation.
+# Source-SHA256: 51fa0e6a38f8fa3629ba1b0d0b90b4ed139715956b97bfd09a6f1a6232c15df5
+
+## Screen
+App: Northstar Shop - Audience Operations
+Environment: Production
+Breadcrumb: Northstar Shop / Audience Operations / Audience Operations
+Title: Soo-jin Park
+Badge: Live
+Subtitle: marketing_001 · sj.park@naver.com · +82 10-5837-9451
+Tabs: Profile (selected), Attributes, Memberships, Activity
+
+## Summary cards
+Market: South Korea
+Language: Korean
+Email opt-in: Yes
+SMS opt-in: No
+Last refreshed: 15 Sep 2026 23:40 UTC
+
+## Table: Profile (Updated moments ago · 4 records)
+| # | Time | Activity | Detail |
+| 1 | 23:40 | Product-category update | Desk accessories · Drinkware |
+| 2 | 23:38 | Campaign eligibility check | Autumn offers · Eligible |
+| 3 | 23:35 | Profile refresh | Live profile fields updated |
+| 4 | 23:32 | Audience evaluation | Returning customers — East Asia |
+
+## Panel: Audience membership
+Audience: Returning customers — East Asia
+Segments: Repeat customer · Home & lifestyle · Mobile shopper
+Preferred categories: Desk accessories · Drinkware
+Last campaign: Autumn offers
+Open rate: 32.4%
+Click rate: 6.8%
+
+## Activity
+Autumn offers: 32.4% open rate
+Home & Lifestyle Picks: 28.7% open rate
+Profile refreshed from live data: Recorded
+
+## Footer
+Audience Operations · Production workspace · build 2026.10.4

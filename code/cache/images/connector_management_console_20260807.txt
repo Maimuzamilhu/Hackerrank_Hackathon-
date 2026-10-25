@@ -1,0 +1,43 @@
+# Transcription of evidence/images/connector_management_console_20260807.png
+# Transcribed once by Claude (claude-opus-5-5) in the Claude Code dev session; verbatim text, no interpretation.
+# Source-SHA256: e81fabc93ea1b5f4c918d934cdb2bea05d61737adfcc29f281494f5d8ec46355
+
+## Screen
+App: Northstar Shop - BridgeOps
+Environment: Production
+Breadcrumb: Northstar Shop / BridgeOps / Connections
+Title: Connections
+Badge: 12 connectors
+Subtitle: PRODUCTION · eu-west · 07 Aug 2026 08:00 UTC
+Tabs: Topology (selected), Throughput, Recent deliveries
+
+## Summary cards
+Healthy: 12
+Events / hour: 4,113
+Delivery p95: 1.8 s
+Backlog: 18
+Destination health: Healthy
+
+## Table: Topology (Updated moments ago · 4 records)
+| # | Connector | Destination | Selector | Mode | Events/hour | Last contact |
+| 1 | data_flow_1121 | customer_analytics_warehouse | jain.aditi@gmail.com | Continuous | 1,284 | 07:59:42 |
+| 2 | data_flow_9846 | customer_analytics_warehouse | lucia-torres@gmail.com | Continuous | 842 | 07:59:36 |
+| 3 | Order notifications | notification_service | order events | Continuous | 650 | 07:59:28 |
+| 4 | Delivery tracking | logistics_warehouse | shipment events | Continuous | 420 | 07:59:13 |
+
+## Panel: data_flow_1121
+Status: Healthy
+Owner: Data Platform
+Destination: customer_analytics_warehouse
+Selector: jain.aditi@gmail.com
+Sync mode: Continuous sync
+Last response: 200 OK · 1.8 s
+
+## Activity
+07:59:42: 124 events delivered
+07:58:10: checkpoint committed
+07:56:44: 18 events retried
+07:55:02: destination acknowledged batch
+
+## Footer
+BridgeOps · Production workspace · build 2026.10.4

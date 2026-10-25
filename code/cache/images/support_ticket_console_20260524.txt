@@ -1,0 +1,43 @@
+# Transcription of evidence/images/support_ticket_console_20260524.png
+# Transcribed once by Claude (claude-opus-5-5) in the Claude Code dev session; verbatim text, no interpretation.
+# Source-SHA256: 542b7aec17e6b2f38827896e7eb52c70e4bfaaca22433621be1f80f54884e944
+
+## Screen
+App: Northstar Shop - Helpline Console
+Environment: Production
+Breadcrumb: Northstar Shop / Helpline Console / Inbox
+Title: CS-5034 · Where is my delivery?
+Badge: SLA 01:42
+Subtitle: support_1034 · Kofi Agyeman · Normal priority
+Tabs: Conversation (selected), Internal notes, Activity
+
+## Summary cards
+Customer: Kofi Agyeman
+Email: kagyeman8947@fastmail.com
+Assigned: Maya Chen
+Tags: Delivery · Tracking · Order update
+
+## Table: Conversation (Updated moments ago · 4 records)
+| # | Time | Sender | Message |
+| 1 | 09:12 | Kofi Agyeman | Could you let me know where my order is and when it is expected to arrive? |
+| 2 | 09:13 | Northstar Bot | We received your message and are checking the order details. |
+| 3 | 09:28 | Maya Chen | The parcel reached the regional hub and is on track for delivery on 26 May. |
+| 4 | 09:35 | Kofi Agyeman | Thanks for the update. |
+
+## Panel: Order ORD-20265034
+Product: Running shoes
+Status: In transit
+Carrier: SwiftShip
+Tracking: SWF-884103
+Expected: 26 May 2026
+Assigned agent: Maya Chen
+
+## Activity
+22 May: Order confirmed
+23 May: Dispatched
+24 May 07:46: Reached regional hub
+24 May 08:15: In transit
+26 May: Delivery expected
+
+## Footer
+Helpline Console · Production workspace · build 2026.10.4

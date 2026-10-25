@@ -1,0 +1,31 @@
+# Archives (submission packages are built locally, never committed)
+*.zip
+*.tar
+*.gz
+*.tgz
+*.7z
+*.rar
+agent-trace/
+
+# Claude Code session exports and traces
+2026-*-*.txt
+*.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and local config
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Agent chat log (uploaded to HackerRank separately, kept local)
+log.txt

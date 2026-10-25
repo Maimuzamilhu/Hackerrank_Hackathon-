@@ -1,0 +1,43 @@
+# Transcription of evidence/images/backup_restore_console_20260429.png
+# Transcribed once by Claude (claude-opus-5-5) in the Claude Code dev session; verbatim text, no interpretation.
+# Source-SHA256: 2c246aa5843bec609b9ddfdf1154cd81e0fd61996f83954735e9856e48c18bf3
+
+## Screen
+App: Northstar Shop - Vault Recovery Manager
+Environment: Production
+Breadcrumb: Northstar Shop / Vault Recovery Manager / Recovery Manager
+Title: Customer-platform archives
+Badge: Healthy
+Subtitle: Northstar Production · weekly snapshots
+Tabs: Archives (selected), Recent restores, Infrastructure health
+
+## Summary cards
+Service health: Healthy
+Storage growth: +12.4%
+Restore success: 99.6%
+Stored: 1.35 PB
+
+## Table: Archives (Updated moments ago · 4 records)
+| # | Archive ID | Account | Region | Created | Size | Encryption | Tier |
+| 1 | backup_9291 | bluepeakco@outlook.com | ap-southeast-1 | 26 Apr 02:00 | 102.3 GB | AES-256 | Archive |
+| 2 | backup_9288 | miller.logistics@company.com | us-west-2 | 26 Apr 02:00 | 67.1 GB | AES-256 | Archive |
+| 3 | backup_9287 | areed1433@gmail.com | eu-west-1 | 26 Apr 02:00 | 84.7 GB | AES-256 | Archive |
+| 4 | backup_9286 | summit-retail@company.com | us-east-1 | 26 Apr 02:00 | 91.4 GB | AES-256 | Archive |
+
+## Panel: backup_9287
+Account: areed1433@gmail.com
+Path: s3://northstar-backups/customer-platform/weekly/segment-42-20260426.tar.zst
+Region: eu-west-1
+Created: 26 Apr 2026 02:00 UTC
+Encryption: AES-256
+Checksum: Verified
+Last drill: 29 Mar 2026
+Retention end: 26 Jul 2026
+
+## Activity
+25 Apr: backup_9286 restored · Completed
+24 Apr: backup_9281 restored · Completed
+22 Apr: checksum verification · Completed
+
+## Footer
+Vault Recovery Manager · Production workspace · build 2026.10.4

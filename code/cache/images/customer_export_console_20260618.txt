@@ -1,0 +1,43 @@
+# Transcription of evidence/images/customer_export_console_20260618.png
+# Transcribed once by Claude (claude-opus-5-5) in the Claude Code dev session; verbatim text, no interpretation.
+# Source-SHA256: 18b95c1bd8b8956e40216df935498a9f3c181ea2a69b5cd6d3c0841a816d5557
+
+## Screen
+App: Northstar Shop - Customer Download Center
+Environment: Production
+Breadcrumb: Northstar Shop / Customer Download Center / Data exports
+Title: Data exports
+Badge: 4 jobs
+Subtitle: Create and manage customer download packages
+Tabs: All exports (selected), Ready, Processing, Expired
+
+## Summary cards
+Ready: 2
+Processing: 2
+Created today: 1
+Downloads today: 0
+
+## Table: All exports (Updated moments ago · 4 records)
+| # | Export ID | Filename | Owner | Status | Created |
+| 1 | export_1261 | customer_export_1261.zip | marcus.lee@northstar.shop | Collecting | 20 Jun 14:18 UTC |
+| 2 | export_1260 | customer_export_1260.zip | ingrid.dahl@outlook.com | Ready | 18 Jun 06:42 UTC |
+| 3 | export_1259 | customer_export_1259.zip | sara.kim@northstar.shop | Packaging | 17 Jun 11:03 UTC |
+| 4 | export_1258 | customer_export_1258.zip | daniel.park@northstar.shop | Ready | 16 Jun 09:27 UTC |
+
+## Panel: export_1260
+Owner: ingrid.dahl@outlook.com
+Created: 18 Jun 2026 06:42 UTC
+Expires: 25 Jun 2026 06:42 UTC
+Size: 18.4 MB
+Checksum: SHA-256 · 41ca09...
+Download count: 0
+Included: Profile · Orders · Saved addresses
+
+## Activity
+06:46: Ready for download
+06:45: Package created
+06:43: Collecting customer records
+06:42: Export requested
+
+## Footer
+Customer Download Center · Production workspace · build 2026.10.4
